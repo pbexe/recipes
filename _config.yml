@@ -1,10 +1,9 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
-description: The plain text recipe database for hackers
-baseurl: ""
-twitter_username: clarklab
-github_username:  clarklab
+title: Miles' Recepies
+email: miles@budden.net
+description: My own recepies
+baseurl: "milesbudden.com/recepies"
+github_username:  pbexe
 
 # Build settings
 markdown: kramdown
