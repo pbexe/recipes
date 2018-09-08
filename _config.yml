@@ -2,7 +2,7 @@
 title: Miles' Recepies
 email: miles@budden.net
 description: My own recepies
-baseurl: "recepies"
+baseurl: "/recepies"
 github_username:  pbexe
 
 # Build settings
