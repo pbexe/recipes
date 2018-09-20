@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Lamb Rogan Josh"
-image: lamb-rogan-josh.jpg
+image: lamb-rogan-josh.jpeg
 tags: mains, curry, lamb
 
 ingredients:
