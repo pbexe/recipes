@@ -28,4 +28,4 @@ directions:
 
 ---
 
-A perfect recipe if you grow tomatoes and you've grown too many.
+A good recipe if you grow tomatoes and you've grown too many.
